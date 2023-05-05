@@ -1,6 +1,5 @@
 
-<<<<<<< HEAD
 data from FeatureX
-=======
+And
 data from FeatureY
->>>>>>> featureY
+
